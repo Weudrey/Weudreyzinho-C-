@@ -1,0 +1,10 @@
+E:\WeudreYZukowski\Model\bin\Debug\Model.dll
+E:\WeudreYZukowski\Model\bin\Debug\Model.pdb
+E:\WeudreYZukowski\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\WeudreYZukowski\Model\obj\Debug\Model.dll
+E:\WeudreYZukowski\Model\obj\Debug\Model.pdb
+F:\WeudreYZukowski\Model\bin\Debug\Model.dll
+F:\WeudreYZukowski\Model\bin\Debug\Model.pdb
+F:\WeudreYZukowski\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\WeudreYZukowski\Model\obj\Debug\Model.dll
+F:\WeudreYZukowski\Model\obj\Debug\Model.pdb

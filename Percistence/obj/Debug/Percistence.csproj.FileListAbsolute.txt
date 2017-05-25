@@ -1,0 +1,12 @@
+F:\WeudreYZukowski\Percistence\bin\Debug\Percistence.dll.config
+F:\WeudreYZukowski\Percistence\bin\Debug\Percistence.dll
+F:\WeudreYZukowski\Percistence\bin\Debug\Percistence.pdb
+F:\WeudreYZukowski\Percistence\bin\Debug\EntityFramework.dll
+F:\WeudreYZukowski\Percistence\bin\Debug\EntityFramework.SqlServer.dll
+F:\WeudreYZukowski\Percistence\bin\Debug\Model.dll
+F:\WeudreYZukowski\Percistence\bin\Debug\Model.pdb
+F:\WeudreYZukowski\Percistence\bin\Debug\EntityFramework.xml
+F:\WeudreYZukowski\Percistence\bin\Debug\EntityFramework.SqlServer.xml
+F:\WeudreYZukowski\Percistence\obj\Debug\Percistence.csprojResolveAssemblyReference.cache
+F:\WeudreYZukowski\Percistence\obj\Debug\Percistence.dll
+F:\WeudreYZukowski\Percistence\obj\Debug\Percistence.pdb

@@ -1,0 +1,368 @@
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\ApplicationInsights.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.pdb
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.csprojResolveAssemblyReference.cache
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.pdb
+G:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.csprojResolveAssemblyReference.cache
+G:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.dll
+G:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.pdb
+G:\WeudreYZukowski\WeudreYZukowski\bin\ApplicationInsights.config
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.exe
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Collections.Immutable.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Reflection.Metadata.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.exe
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe
+G:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe.config
+G:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll.config
+G:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.pdb
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Agent.Intercept.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.Web.Infrastructure.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.dll
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.xml
+G:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\ApplicationInsights.config
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.exe
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Collections.Immutable.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Reflection.Metadata.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.exe
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe.config
+I:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll.config
+I:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.pdb
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Agent.Intercept.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.Web.Infrastructure.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.xml
+I:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.csprojResolveAssemblyReference.cache
+I:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.dll
+I:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.pdb
+F:\WeudreYZukowski\WeudreYZukowski\bin\ApplicationInsights.config
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.exe
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Collections.Immutable.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Reflection.Metadata.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.exe
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe.config
+F:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll.config
+F:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.pdb
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Agent.Intercept.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.Web.Infrastructure.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.xml
+F:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.dll
+F:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.pdb
+F:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.SqlServer.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.SqlServer.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.SqlServer.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.xml
+I:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.SqlServer.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.exe.config
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.rsp
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.exe
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.exe.config
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.rsp
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.AppContext.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Console.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.Process.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.Compression.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.Pipes.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.AccessControl.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Claims.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Principal.Windows.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Threading.Thread.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.ValueTuple.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XmlDocument.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XPath.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.exe.config
+F:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.rsp
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.exe.config
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.rsp
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.exe
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.exe.config
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.rsp
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.AppContext.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Console.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.Process.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.Compression.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.Pipes.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.AccessControl.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Claims.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Principal.Windows.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Threading.Thread.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.ValueTuple.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XmlDocument.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XPath.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.exe.config
+I:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.rsp
+E:\WeudreYZukowski\WeudreYZukowski\bin\ApplicationInsights.config
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.exe
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.exe.config
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csc.rsp
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.exe
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.exe.config
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\csi.rsp
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.AppContext.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Collections.Immutable.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Console.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.Process.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.Compression.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.IO.Pipes.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Reflection.Metadata.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.AccessControl.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Claims.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Threading.Thread.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.ValueTuple.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XPath.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.exe
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.exe.config
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\vbc.rsp
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe
+E:\WeudreYZukowski\WeudreYZukowski\bin\roslyn\VBCSCompiler.exe.config
+E:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll.config
+E:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\WeudreYZukowski.pdb
+E:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.SqlServer.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Agent.Intercept.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.Web.Infrastructure.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\EntityFramework.SqlServer.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.DependencyCollector.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.Web.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.AI.WindowsServer.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.ApplicationInsights.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Razor.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Deployment.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Webpages.Razor.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Helpers.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Mvc.xml
+E:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.csprojResolveAssemblyReference.cache
+E:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.dll
+E:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.pdb
+E:\WeudreYZukowski\WeudreYZukowski\bin\Model.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Model.pdb
+E:\WeudreYZukowski\WeudreYZukowski\bin\Percistence.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Percistence.pdb
+F:\WeudreYZukowski\WeudreYZukowski\obj\Debug\WeudreYZukowski.csprojResolveAssemblyReference.cache
+F:\WeudreYZukowski\WeudreYZukowski\bin\Model.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Newtonsoft.Json.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Percistence.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Services.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Net.Http.Formatting.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.WebHost.dll
+F:\WeudreYZukowski\WeudreYZukowski\bin\Model.pdb
+F:\WeudreYZukowski\WeudreYZukowski\bin\Percistence.pdb
+F:\WeudreYZukowski\WeudreYZukowski\bin\Services.pdb
+F:\WeudreYZukowski\WeudreYZukowski\bin\Newtonsoft.Json.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Net.Http.Formatting.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.xml
+F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.WebHost.xml
