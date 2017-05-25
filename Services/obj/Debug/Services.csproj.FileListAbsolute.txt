@@ -9,3 +9,14 @@ F:\WeudreYZukowski\Services\bin\Debug\Percistence.pdb
 F:\WeudreYZukowski\Services\bin\Debug\EntityFramework.xml
 F:\WeudreYZukowski\Services\obj\Debug\Services.dll
 F:\WeudreYZukowski\Services\obj\Debug\Services.pdb
+E:\WeudreYZukowski\Services\bin\Debug\Services.dll
+E:\WeudreYZukowski\Services\bin\Debug\Services.pdb
+E:\WeudreYZukowski\Services\bin\Debug\Model.dll
+E:\WeudreYZukowski\Services\bin\Debug\Percistence.dll
+E:\WeudreYZukowski\Services\bin\Debug\EntityFramework.dll
+E:\WeudreYZukowski\Services\bin\Debug\Model.pdb
+E:\WeudreYZukowski\Services\bin\Debug\Percistence.pdb
+E:\WeudreYZukowski\Services\bin\Debug\EntityFramework.xml
+E:\WeudreYZukowski\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+E:\WeudreYZukowski\Services\obj\Debug\Services.dll
+E:\WeudreYZukowski\Services\obj\Debug\Services.pdb

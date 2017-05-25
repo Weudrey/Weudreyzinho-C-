@@ -1,4 +1,5 @@
 ﻿using Model.Tables;
+using Services.Registers;
 using Services.Tables;
 using System;
 using System.Collections.Generic;
@@ -6,21 +7,46 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using WeudreYZukowski.Models;
 
 namespace WeudreYZukowski.Controllers.API
 {
     public class CategoriesController : ApiController
     {
         private CategoryService service = new CategoryService();
+        private ProductServices productService = new ProductServices();
+
         // GET: api/Categories
-        public IEnumerable<Category> Get()
+        public CategoryListAPIModel Get()
         {
-            return service.CategoryByName();
+            var apiModel = new CategoryListAPIModel();
+            try
+            {
+                apiModel.Result = service.CategoryByName();
+            }
+            catch (System.Exception)
+            {
+                apiModel.Message = "!Ok";
+            }
+            return apiModel;
         }
 
         // GET: api/Categories/5
-        public Category Get(int id)
+        public CategoryAPIModel Get(int id)
         {
+            var apiModel = new CategoryAPIModel();
+            try
+            {
+                apiModel.Result = service.CategoryById(id);
+                if(apiModel.Result = null)
+                {
+                    apiModel.Result.Products = productService.ProductsById(id).ToList();
+                }
+            }
+            catch
+            {
+
+            }
             return service.CategoryById(id);
         }
 

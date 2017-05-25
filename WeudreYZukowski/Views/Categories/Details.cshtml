@@ -28,5 +28,10 @@
             @Html.ActionLink("Retornar	para	a	listagem","Index", null, new { @class ="btn	btn-info"})
         </div>
     </div>
-    @Html.Partial("~/Views/Products/_ByCategories.cshtml", Model.Products.ToList())
+  
 
+@section ScriptPage	{
+    <script src="@Url.Content("~/Scripts/jquery.validate.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")"></script>
+
+}

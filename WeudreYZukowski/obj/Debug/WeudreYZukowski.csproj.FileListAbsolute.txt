@@ -366,3 +366,13 @@ F:\WeudreYZukowski\WeudreYZukowski\bin\Newtonsoft.Json.xml
 F:\WeudreYZukowski\WeudreYZukowski\bin\System.Net.Http.Formatting.xml
 F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.xml
 F:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.WebHost.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\Newtonsoft.Json.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Services.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Net.Http.Formatting.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.WebHost.dll
+E:\WeudreYZukowski\WeudreYZukowski\bin\Services.pdb
+E:\WeudreYZukowski\WeudreYZukowski\bin\Newtonsoft.Json.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Net.Http.Formatting.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.xml
+E:\WeudreYZukowski\WeudreYZukowski\bin\System.Web.Http.WebHost.xml
