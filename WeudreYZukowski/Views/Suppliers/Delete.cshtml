@@ -1,0 +1,34 @@
+﻿@model Model.Registers.Supplier
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Delete Suppliers";
+}
+
+
+    <div class="panel	panel-primary">
+        <div class="panel-heading">
+            Delete Suppliers
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name)<br />
+                <div class="input-group">
+                    <span class="input-group-addon">
+                        <i class="glyphicon	glyphicon-user">
+                        </i>
+                    </span>
+                    @Html.EditorFor(model => model.Name, new {htmlAttributes = new {@class ="form-control",disabled = "disabled"}})
+                </div>
+            </div>
+        </div>
+        <div class="panel-footer	panel-info">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <input type="submit" value="Remover FABRICANTE" class="btn btn-danger" />
+                 @Html.ActionLink("Back to List","Index", null, new {@class ="btn	btn-info"})
+            }
+        </div>
+    </div>
+    @Html.Partial("~/Views/Products/_BySuppliers.cshtml", Model.Products.ToList())

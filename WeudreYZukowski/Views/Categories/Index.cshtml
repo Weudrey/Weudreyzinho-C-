@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Model.Tables.Category>
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "list of Categories";
+}
+@if (@TempData["Message"] != null)
+{
+    <div class="alert	alert-success" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+
+
+    <div class="panel	panel-primary">
+        <div class="panel-heading">
+            List of registered Categories
+        </div>
+        <div class="panel-body">
+            <table class="table	table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Name)
+                        </th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                           
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.CategoryID }) |
+                                @Html.ActionLink("Details", "Details", new { id = item.CategoryID }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.CategoryID })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="panel-footer panel-info">
+            @Html.ActionLink("Create new Category", "Create", "Categories", new { @class = "btn btn-success" })
+        </div>
+    </div>
+    @section Styles{
+        <link href="@Url.Content("~/Content/DataTables/css/dataTables.bootstrap.css")" rel="stylesheet" />
+    }
+    @section ScriptPage	{
+        <script src="@Url.Content("~/Scripts/DataTables/jquery.dataTables.js")"></script>
+        <script src="@Url.Content("~/Scripts/DataTables/dataTables.bootstrap.js")"></script>
+        <script type="text/javascript">$(document).ready(function() {$('li').removeClass("active");$('#liCategory').addClass("active");});</script>
+        <script type="text/javascript">$(document).ready(function(){$('.table').dataTable();}); </script>
+    }
+

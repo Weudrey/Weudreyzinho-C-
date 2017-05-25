@@ -1,0 +1,33 @@
+﻿@model Model.Registers.Supplier
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+    <div class="panel	panel-primary">
+        <div class="panel-heading">
+            Details Supplier
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name)
+                <br />
+                <div class="input-group">
+                    <span class="input-group-addon">
+                        <i class="glyphicon	glyphicon-user"></i>
+                    </span>
+                    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+                </div>
+            </div>
+        </div>
+        <div class="panel-footer	panel-info">
+            @Html.ActionLink("Alterar", "Edit", new { id = Model.SupplierID }, new { @class = "btn	btn-info" })
+            @Html.ActionLink("Back to List", "Index", null, new { @class = "btn	btn-info" })
+        </div>
+    </div>
+            @Html.Partial("~/Views/Products/_BySuppliers.cshtml", Model.Products.ToList())
+    @section ScriptPage	{
+        <script src="@Url.Content("~/Scripts/jquery.validate.min.js")"></script>
+        <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")"></script>
+        }

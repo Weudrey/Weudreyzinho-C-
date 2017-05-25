@@ -1,0 +1,23 @@
+﻿@model Model.Registers.Product
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Details Products";
+}
+<div class="panel	panel-primary">
+    <div class="panel-heading">
+        Details Products
+    </div>
+    <div class="panel-body">
+        @Html.Partial("~/Views/Products/_PartialDetailsContentPanel.cshtml", Model)
+    </div>
+    <div class="panel-footer	panel-info">
+        @Html.ActionLink("Edit", "Edit", new {id = Model.ProductID}, new { @class = "btn btn-info" })
+        @Html.ActionLink("Back to list", "Index",null, new { @class = "btn btn-info" })
+    </div>
+</div>
+@section	ScriptPage	{
+    <script type="text/javascript">$(document).ready(function () {$('li').removeClass("active");$('#liProducts').addClass("active");});
+    </script>
+}
