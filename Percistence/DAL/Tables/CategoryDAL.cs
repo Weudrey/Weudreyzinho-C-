@@ -1,11 +1,7 @@
 ﻿using Model.Tables;
 using Persistence.Contexts;
-using System;
-using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Percistence.DAL.Tables
 {
@@ -13,15 +9,21 @@ namespace Percistence.DAL.Tables
     {
         private EFContexts context = new EFContexts();
 
-        public IEnumerable<Category> CategoriesByName()
+
+        public IQueryable<Category> GetOrderbyName()
         {
             return context.Categories.OrderBy(c => c.Name);
         }
-        public Category CategoriesById(long id)
+        public IQueryable<Category> Get()
         {
-            return context.Categories.Where(b => b.CategoryID == id ).First();
+            return context.Categories;
         }
-        public void SaveCategory(Category category)
+
+        public Category GetOrderById(long? id)
+        {
+            return context.Categories.Where(c => c.CategoryID == id).First(); //.Include("Products.Supplier").First();
+        }
+        public void SaveProduct(Category category)
         {
             if (category.CategoryID == null)
             {
@@ -33,9 +35,10 @@ namespace Percistence.DAL.Tables
             }
             context.SaveChanges();
         }
-        public Category DeleteCategory(long id)
+        public Category DeleteByID(long id)
         {
-            Category category = CategoriesById(id);
+            Category category = GetOrderById(id);
+            context.Products.RemoveRange(context.Products).Where(m => m.CategoryId == id);
             context.Categories.Remove(category);
             context.SaveChanges();
             return category;

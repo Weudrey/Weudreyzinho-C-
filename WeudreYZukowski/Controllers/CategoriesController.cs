@@ -1,18 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
 using System.Net;
-using System.Web;
 using System.Web.Mvc;
-using Persistence.Contexts;
-using WeudreYZukowski.ExtensionMethods;
-using Model.Registers;
 using Model.Tables;
 using Services.Tables;
 using System.Threading.Tasks;
 using System.Net.Http;
 using Newtonsoft.Json;
+using WeudreYZukowski.Models;
 
 namespace WeudreYZukowski.Controllers
 {
@@ -27,17 +21,17 @@ namespace WeudreYZukowski.Controllers
         // GET: Supplier
         public async Task<ActionResult> Index()
         {
-            var list = new List<Category>();
+            var apiModel = new CategoryListAPIModel();
 
             var resp = await FromAPI(null, response =>
             {
                 if (response.IsSuccessStatusCode)
                 {
                     var result = response.Content.ReadAsStringAsync().Result;
-                    list = JsonConvert.DeserializeObject<List<Category>>(result);
+                    apiModel = JsonConvert.DeserializeObject<CategoryListAPIModel>(result);
                 }
             });
-            return View(list);
+            return View(apiModel.Result);
         }
 
         #endregion [ Index ]
@@ -87,7 +81,7 @@ namespace WeudreYZukowski.Controllers
         {
             try
             {
-                Category category = categoryService.DeleteCategory(id);
+                Category category = categoryService.DeleteByID(id);
                 TempData["Message"] = "Produto	" + category.Name.ToUpper()
                                 + "	foi	removido";
                 return RedirectToAction("Index");
@@ -116,7 +110,7 @@ namespace WeudreYZukowski.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    categoryService.SaveCategory(category);
+                    categoryService.Save(category);
                     return RedirectToAction("Index");
                 }
                 return View(category);

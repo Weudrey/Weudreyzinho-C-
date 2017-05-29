@@ -1,11 +1,7 @@
 ﻿using Model.Tables;
 using Services.Registers;
 using Services.Tables;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 using WeudreYZukowski.Models;
 
@@ -20,52 +16,62 @@ namespace WeudreYZukowski.Controllers.API
         public CategoryListAPIModel Get()
         {
             var apiModel = new CategoryListAPIModel();
+
             try
             {
-                apiModel.Result = service.CategoryByName();
+                apiModel.Result = service.GetByName().ToList();
             }
             catch (System.Exception)
             {
-                apiModel.Message = "!Ok";
+                apiModel.Message = "!OK";
             }
+
             return apiModel;
         }
-
+      
         // GET: api/Categories/5
-        public CategoryAPIModel Get(int id)
+        public CategoryAPIModel Get(long? id)
         {
             var apiModel = new CategoryAPIModel();
+
             try
             {
-                apiModel.Result = service.CategoryById(id);
-                if(apiModel.Result = null)
+                if (id == null)
                 {
-                    apiModel.Result.Products = productService.ProductsById(id).ToList();
+                    apiModel.Message = "!OK";
+                    return apiModel;
+                }
+                else
+                {
+                    apiModel.Result = service.GetByID(id);
+                    if (apiModel.Result != null)
+                        apiModel.Result.Products = productService.GetByCategory(id.Value).ToList();
                 }
             }
-            catch
+            catch (System.Exception)
             {
-
+                apiModel.Message = "!OK";
             }
-            return service.CategoryById(id);
+
+            return apiModel;
         }
 
         // POST: api/Categories
         public void Post([FromBody]Category value)
         {
-            service.SaveCategory(value);
+            service.Save(value);
         }
 
         // PUT: api/Categories/5
         public void Put(int id, [FromBody]Category value)
         {
-            service.SaveCategory(value);
+            service.Save(value);
         }
 
         // DELETE: api/Categories/5
         public void Delete(int id)
         {
-            service.DeleteCategory(id);
+            service.DeleteByID(id);
         }
     }
 }

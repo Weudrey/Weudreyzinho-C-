@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Net;
-using System.Web;
+﻿using System.Net;
 using System.Web.Mvc;
 using Model.Registers;
-using Model.Tables;
-using Persistence.Contexts;
 using Services.Registers;
 
 namespace WeudreYZukowski.Controllers

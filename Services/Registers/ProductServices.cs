@@ -1,31 +1,31 @@
 ﻿using Model.Registers;
 using Percistence.DAL.Registers;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Services.Registers
 {
     public class ProductServices
     {
-        private ProductDAL produtoDAL = new ProductDAL();
-        public IEnumerable<Product> ProductsByName()
+        private ProductDAL productDAL = new ProductDAL();
+        public IQueryable GetByName()
         {
-            return produtoDAL.ProductsByName();
+            return productDAL.ProductsByName();
         }
-        public Product ProductsById(long id)
+        public Product GetByID(long id)
         {
-            return produtoDAL.ProductsById(id);
+            return productDAL.ProductsById(id);
         }
-        public void SaveProduct(Product product)
+        public IQueryable<Product> GetByCategory(long? id)
         {
-            produtoDAL.SaveProduct(product);
+            return productDAL.GetByCategory(id);
         }
-        public Product DeleteProduct(long id)
+        public void Save(Product product)
         {
-            return produtoDAL.DeleteProduct(id);
+            productDAL.SaveProduct(product);
+        }
+        public Product DeleteByID(long id)
+        {
+            return productDAL.DeleteProduct(id);
         }
     }
 }

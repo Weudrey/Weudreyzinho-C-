@@ -1,14 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Data.Entity;
-using System.Linq;
-using System.Net;
-using System.Web;
+﻿using System.Net;
 using System.Web.Mvc;
 using Model.Registers;
-using Model.Tables;
-using Persistence.Contexts;
 using Services.Registers;
 using Services.Tables;
 
@@ -24,7 +16,7 @@ namespace WeudreYZukowski.Controllers
         // GET: Products
         public ActionResult Index()
         {
-            return View(productService.ProductsByName());
+            return View(productService.GetByName());
         }
         #endregion
 
@@ -45,7 +37,7 @@ namespace WeudreYZukowski.Controllers
         {
             try
             {
-                Product product = productService.DeleteProduct(id);
+                Product product = productService.DeleteByID(id);
                 TempData["Message"] = "Produto	" + product.Name.ToUpper()
                                 + "	foi	removido";
                 return RedirectToAction("Index");
@@ -60,7 +52,7 @@ namespace WeudreYZukowski.Controllers
         #region [ Edit ]
         public ActionResult Edit(long? id)
         {
-            PopularViewBag(productService.ProductsById((long)id));
+            PopularViewBag(productService.GetByID((long)id));
             return ProductById(id);
         }
         [HttpPost]
@@ -89,7 +81,7 @@ namespace WeudreYZukowski.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    productService.SaveProduct(product);
+                    productService.Save(product);
                     return RedirectToAction("Index");
                 }
                 return View(product);
@@ -109,7 +101,7 @@ namespace WeudreYZukowski.Controllers
                 return new HttpStatusCodeResult(
                                 HttpStatusCode.BadRequest);
             }
-            Product product = productService.ProductsById((long)id);
+            Product product = productService.GetByID((long)id);
             if (product == null)
             {
                 return HttpNotFound();
@@ -121,12 +113,12 @@ namespace WeudreYZukowski.Controllers
         {
             if (product == null)
             {
-                ViewBag.CategoryId = new SelectList(categoryService.CategoryByName(),"CategoryId", "Name");
+                ViewBag.CategoryId = new SelectList(categoryService.GetByName(),"CategoryId", "Name");
                 ViewBag.SupplierId = new SelectList(supplierService.SuppliersByName(),"SupplierId", "Name");
             }
             else
             {
-                ViewBag.CategoryId = new SelectList(categoryService.CategoryByName(), "CategoryId", "Name", product.CategoryId);
+                ViewBag.CategoryId = new SelectList(categoryService.GetByName(), "CategoryId", "Name", product.CategoryId);
                 ViewBag.SupplierId = new SelectList(supplierService.SuppliersByName(),"SupplierId", "Name", product.SupplierId);
             }
         }

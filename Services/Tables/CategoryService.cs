@@ -1,6 +1,5 @@
 ﻿using Model.Tables;
 using Percistence.DAL.Tables;
-using System.Collections.Generic;
 using System.Linq;
 
 
@@ -9,23 +8,27 @@ namespace Services.Tables
     public class CategoryService
     {
         private CategoryDAL categoryDAL = new CategoryDAL();
-        public IEnumerable<Category> CategoryByName()
+        public IQueryable<Category> GetByName()
         {
-            return categoryDAL.CategoriesByName();
+            return categoryDAL.GetOrderbyName();
+        }
+        public Category GetByID(long? id)
+        {
+            return categoryDAL.GetOrderById(id);
         }
 
-        public Category CategoryById(long id)
+        public IQueryable<Category> Get(long? id)
         {
-            return categoryDAL.CategoriesById(id);
-        }
-        public void SaveCategory(Category supplier)
-        {
-            categoryDAL.SaveCategory(supplier);
-        }
-        public Category DeleteCategory(long id)
-        {
-            return categoryDAL.DeleteCategory(id);
+            return categoryDAL.Get();
         }
 
+        public void Save(Category category)
+        {
+            categoryDAL.SaveProduct(category);
+        }
+        public Category DeleteByID(long id)
+        {
+            return categoryDAL.DeleteByID(id);
+        }
     }
 }
